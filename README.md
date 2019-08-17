@@ -1,2 +1,2 @@
 # hello-world
-the firs repo
+Aprendiendo a usar GitHub
